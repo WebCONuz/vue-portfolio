@@ -1,5 +1,5 @@
 <template>
-  <section class="py-28 bg-blue-50">
+  <section class="py-12 bg-blue-50">
     <div class="container mx-auto flex items-center">
       <div class="w-1/2">
         <p class="text-xl font-semibold mb-5">Hey, I am John</p>

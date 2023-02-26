@@ -1,21 +1,17 @@
 <template>
   <Navbar />
   <main class="">
-    <Home />
-    <Experience />
+    <RouterView />
   </main>
 </template>
 <script>
-import Navbar from "../src/components/Navbar/Navbar.vue";
-import Home from "../src/views/Home/Home.vue";
-import Experience from "../src/views/Experience/Experience.vue";
+import Navbar from "@/components/Navbar/Navbar.vue";
+import { RouterView } from "vue-router";
 
 export default {
   name: "App",
   components: {
     Navbar,
-    Home,
-    Experience,
   },
 };
 </script>
