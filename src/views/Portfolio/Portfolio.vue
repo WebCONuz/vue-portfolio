@@ -11,7 +11,7 @@
           <span class="ml-2">Visit My Dribbble</span>
         </a>
       </div>
-      <div class="flex justify-between mt-16">
+      <div class="flex justify-between my-16">
         <WorkCard
           class="w-[31%]"
           cardTitle="Ahuse"
