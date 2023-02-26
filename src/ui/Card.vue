@@ -1,5 +1,7 @@
 <template>
-  <div class="p-6 rounded border-b-2 border-violet-600">
+  <div
+    class="p-6 rounded border-b-2 border-transparent hover:border-violet-600 duration-200"
+  >
     <div
       class="w-[80px] h-[80px] flex items-center justify-center p-3 pb-4 rounded bg-white shadow mb-5"
     >
